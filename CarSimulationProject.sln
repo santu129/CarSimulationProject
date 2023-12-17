@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDrivingCarSimulation", "AutoDrivingCarSimulation.csproj", "{2DD8290F-9652-4733-968D-CD097F36F153}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSimulationProject.Domain.Tests", "CarSimulationProject.Domain.Tests\CarSimulationProject.Domain.Tests.csproj", "{AC4CEAEF-B711-4637-B109-48E3E9E146C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSimulationProject.Domain.Tests", "..\CarSimulationProject\CarSimulationProject.Domain.Tests\CarSimulationProject.Domain.Tests.csproj", "{A684160C-69CE-4F29-996A-D2AE18BB329A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{2DD8290F-9652-4733-968D-CD097F36F153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DD8290F-9652-4733-968D-CD097F36F153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DD8290F-9652-4733-968D-CD097F36F153}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC4CEAEF-B711-4637-B109-48E3E9E146C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC4CEAEF-B711-4637-B109-48E3E9E146C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC4CEAEF-B711-4637-B109-48E3E9E146C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC4CEAEF-B711-4637-B109-48E3E9E146C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A684160C-69CE-4F29-996A-D2AE18BB329A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A684160C-69CE-4F29-996A-D2AE18BB329A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A684160C-69CE-4F29-996A-D2AE18BB329A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A684160C-69CE-4F29-996A-D2AE18BB329A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
